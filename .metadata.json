@@ -1,10 +1,10 @@
 [
   {
-    "package": "imagine",
+    "package": "grec",
     "oncran": true
   },
   {
-    "package": "grec",
+    "package": "imagine",
     "oncran": true
   }
 ]

@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "imagine"]
-	path = imagine
-	url = https://github.com/luislaum/imagine
-	shallow = true
-	registered = true
 [submodule "grec"]
 	path = grec
 	url = https://github.com/luislaum/grec
+	shallow = true
+	registered = true
+[submodule "imagine"]
+	path = imagine
+	url = https://github.com/luislaum/imagine
 	shallow = true
 	registered = true
